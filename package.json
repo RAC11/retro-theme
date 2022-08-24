@@ -3,6 +3,18 @@
   "displayName": "Retro Theme",
   "description": "Retro",
   "version": "0.0.1",
+  "publisher": "Rylan Reese",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RAC11/retro-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "retro",
+    "retro theme",
+    "Rylan Reese"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
