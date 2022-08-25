@@ -6,7 +6,7 @@ Feel free to make changes and submit them!
 Enjoy!
 
 This theme can be found by going to -> "Extensions" then typing "retro-theme".
-<img src=".vscode\Assets\retroThemeExtension.jpg">
+![theme extension](./Assets/retroThemeExtension.jpg)
 
 The following image below is a preview of the color theme.
-<img src=".vscode\Assets\retroPreview.jpg">
+![theme extension](./Assets/retroPreview.jpg)
